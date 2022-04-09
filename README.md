@@ -26,8 +26,8 @@
 <img align="left" src="./Images/unity3d.png" alt="unity3d" height='40px'/>
 <img align="left" src="./Images/EF-Core.png" alt="EF-Core" height='40px'/>
 <img align="left" src="./Images/mvc.jpg" alt="mvc" height='42px'/>
-<img align="left" src="./Images/ssms.png" alt="SQLServerManagementStudio" height='42px'/>
 <img align="left" src="./Images/netcore.png" alt="netcore" height='42px'/>
+<img align="left" src="./Images/ssms.png" alt="SQLServerManagementStudio" height='42px'/>
 <img align="left" src="./Images/LINQ.jpg" alt="LINQ" height='42px'/>
 <img align="left" src="./Images/android.png" alt="android" height='42px'/>
 <img align="left" src="./Images/Illustrator.png" alt="Illustrator" height='42px'/>
