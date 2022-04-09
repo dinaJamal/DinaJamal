@@ -19,17 +19,19 @@
 <img align="left" alt="HTML5" height ="42px" src="./Images/html.svg">
 <img align="left" alt="JavaScript" height ="42px"  src="./Images/javascript.svg">
 <img align="left" src="./Images/git.svg" alt="git" height='42px'/>
-<img align="left" src="./Images/csharp.png" alt="csharp" height='42px'/>
-<img align="left" src="./Images/unity3d.png" alt="unity3d" height='40px'/>
-<img align="left" src="./Images/EF-Core.png" alt="EF-Core" height='40px'/>
-<img align="left" src="./Images/postgreSQL.png" alt="postgreSQL" height='40px'/>
-<img align="left" src="./Images/mvc.jpg" alt="mvc" height='42px'/>
-<img align="left" src="./Images/android.png" alt="android" height='42px'/>
-<img align="left" src="./Images/netcore.png" alt="netcore" height='42px'/>
-<img align="left" src="./Images/LINQ.jpg" alt="LINQ" height='42px'/>
-<img align="left" src="./Images/Illustrator.png" alt="Illustrator" height='42px'/>
 <img align="left" src="./Images/bootstrap.png" alt="bootstrap" height='40px'/>
 <img align="left" src="./Images/DBeaver.png" alt="DBeaver" height='42px'/>
+<img align="left" src="./Images/postgreSQL.png" alt="postgreSQL" height='40px'/>
+<img align="left" src="./Images/csharp.png" alt="csharp" height='42px'/>
+<img align="left" src="./Images/unity3d.png" alt="unity3d" height='40px'/>
+<img align="left" src="./Images/Illustrator.png" alt="Illustrator" height='42px'/>
+<img align="left" src="./Images/EF-Core.png" alt="EF-Core" height='40px'/>
+<img align="left" src="./Images/mvc.jpg" alt="mvc" height='42px'/>
+<img align="left" src="./Images/netcore.png" alt="netcore" height='42px'/>
+<img align="left" src="./Images/LINQ.jpg" alt="LINQ" height='42px'/>
+<img align="left" src="./Images/android.png" alt="android" height='42px'/>
+
+
 
 <br>
 <br>
