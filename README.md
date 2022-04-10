@@ -23,8 +23,8 @@
 <img align="left" src="./Images/DBeaver.png" alt="DBeaver" height='42px'/>
 <img align="left" src="./Images/postgreSQL.png" alt="postgreSQL" height='40px'/>
 <img align="left" src="./Images/csharp.png" alt="csharp" height='42px'/>
-<img align="left" src="./Images/unity3d.png" alt="unity3d" height='40px'/>
-<img align="left" src="./Images/EF-Core.png" alt="EF-Core" height='40px'/>
+<img align="left" src="./Images/unity3d.png" alt="unity3d" height='42px'/>
+<img align="left" src="./Images/EF-Core.png" alt="EF-Core" height='42px'/>
 <img align="left" src="./Images/mvc.jpg" alt="mvc" height='42px'/>
 <img align="left" src="./Images/netcore.png" alt="netcore" height='42px'/>
 <img align="left" src="./Images/ssms.png" alt="SQLServerManagementStudio" height='42px'/>
