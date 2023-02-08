@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dina Issa
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning node js backend
 - 📫 Reach me at: dj.developer.ri@gmail.com
 
 <br>
